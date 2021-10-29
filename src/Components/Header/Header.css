@@ -1,0 +1,18 @@
+.navbar{
+    padding: 10px;
+    background-color: rgb(0, 0, 0);
+}
+.link{
+    margin: 10px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.link:hover{
+    color: tomato;
+}
+.name{
+    margin-left: auto;
+    font-size: 40px;
+    color: rgb(251, 251, 251);
+}
