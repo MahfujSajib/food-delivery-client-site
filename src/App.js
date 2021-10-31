@@ -10,6 +10,8 @@ import Services from './Components/Home/Services/Services';
 import Login from './Components/Login/Login';
 import AuthProvider from './Components/Context/Context';
 import Additems from './Components/AddItems/Additems';
+import PrivateRoute from './Components/PrivateRoute/PrivateRoute';
+import OrderDone from './Components/OrderDone/OrderDone';
 
 
 function App() {
@@ -35,6 +37,9 @@ function App() {
             <Route path="/additems">
               <Additems></Additems>
             </Route>
+            <PrivateRoute path='/orderdone/:id'>
+              <OrderDone></OrderDone>
+            </PrivateRoute>
             <Route exact path="/contact">
               <Contact></Contact>
             </Route>
