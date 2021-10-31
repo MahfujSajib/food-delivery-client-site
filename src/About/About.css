@@ -1,0 +1,10 @@
+.about{
+    display: grid;
+    align-items: center;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.name{
+    color: tomato;
+}

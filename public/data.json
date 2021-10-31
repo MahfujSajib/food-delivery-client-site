@@ -4,41 +4,41 @@
         "name": "TACO CLUB BERRITO",
         "img": "https://demo.hasthemes.com/aahar-preview/aahar/images/banner/details/1.jpg",
         "price": 40,
-        "description": ""
+        "description": "The best Mexican food in San Diego came from the hole-in-the-wall taco stands"
     },
     {
         "id": 1,
         "name": "Beef Burger",
         "img": "https://demo.hasthemes.com/aahar-preview/aahar/images/beef/1.jpg",
         "price": 50,
-        "description": ""
+        "description": "A food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled"
     },
     {
         "id": 2,
-        "name": "Chicken",
+        "name": "Chicken Curry",
         "img": "https://demo.hasthemes.com/aahar-preview/aahar/images/beef/2.jpg",
         "price": 30,
-        "description": ""
+        "description": "Chicken tikka masala is a dish consisting of roasted marinated chicken chunks (chicken tikka) in spiced curry sauce. The curry is usually creamy and orange-coloured"
     },
     {
         "id": 3,
-        "name": "Chaowmein",
+        "name": "Chaow mein",
         "img": "https://demo.hasthemes.com/aahar-preview/aahar/images/beef/3.jpg",
         "price": 30,
-        "description": ""
+        "description": "The fried noodles then cook with the other components so the flavors marry, the fried crispy noodles soften slightly in the sauce, and the fried taste of the noodles permeates the whole dish. This gives chow mein it's characteristic chewy texture and fried flavor."
     },
     {
         "id": 4,
         "name": "Chicken Burger",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTeEmnVoeU-BP5cCrLQK6L2624Erx89MfMRw&usqp.jpg",
         "price": 45,
-        "description": ""
+        "description": "A food, typically considered a sandwich, consisting of one or more cooked patties—usually ground meat, typically beef—placed inside a sliced bread roll or bun. The patty may be pan fried, grilled, smoked or flame broiled"
     },
     {
         "id": 5,
         "name": "Kacchi",
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJxJFEyENdmHFnW-P1deiIkybnMkXpz3Nu4ABi4r75xAIaSqIZwmCwp-zescBkHIWuB0&usqp.jpg",
         "price": 100,
-        "description": ""
+        "description": "The term 'kacchi' means 'raw' but don't worry, you won't be served uncooked biryani. Rather, the kacchi-style of cooking, which is also known as kacchi yeqni, refers to the method of cooking all the raw elements together in one pot."
     }
 ]

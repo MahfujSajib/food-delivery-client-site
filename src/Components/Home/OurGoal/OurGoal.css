@@ -1,0 +1,12 @@
+.conatiner{
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+    background-color: yellow;
+}
+.goal{
+    font-size: 25px;
+}
+.ourgoal{
+    margin-left: 45%;
+}
