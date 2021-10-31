@@ -9,7 +9,7 @@ const Items = () => {
     const [items, setItems] = useState([]);
     const [cart, setCart] = useState([])
     useEffect(() => {
-        fetch('http://localhost:5000/items')
+        fetch('https://gory-cheateau-60665.herokuapp.com/items')
             .then(res => res.json())
             .then(data => setItems(data))
 
